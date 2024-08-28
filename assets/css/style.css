@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-image: url(../img/fondo\ pokemon.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.logo{
+    height: 80px;
+}
+
+.card{
+    background-color: rgba(32, 6, 162, 0.2);
+}
+
+.card-title{
+    color: #484011;
+    font-weight: 700;
+}
+
+.card-text {
+    color: #0606b8;
+    font-weight: 700;
+}
